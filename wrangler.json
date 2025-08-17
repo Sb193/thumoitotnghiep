@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "thumoitotnghiep",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "b8007aca-4033-4790-933d-9e9eb546676b",
+      "database_name": "thumoitotnghiep-database"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
